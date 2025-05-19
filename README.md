@@ -1,1 +1,347 @@
-# uojdata
+<!DOCTYPE html>
+<html>
+   <head>
+      <!-- basic -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!-- mobile metas -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <!-- site metas -->
+      <title>Currency dataset</title>
+      <meta name="keywords" content="">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <!-- bootstrap css -->
+      <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+      <!-- style css -->
+      <link rel="stylesheet" type="text/css" href="css/style.css">
+      <!-- Responsive-->
+      <link rel="stylesheet" href="css/responsive.css">
+      <!-- fevicon -->
+      <link rel="icon" href="images/fevicon.png" type="image/gif" />
+      <!-- font css -->
+      <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap" rel="stylesheet">
+      <!-- Scrollbar Custom CSS -->
+      <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+      <!-- Tweaks for older IEs-->
+      <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
+   </head>
+   <body>
+      <div class="header_section">
+         <div class="container">
+            <nav class="navbar navbar-expand-lg navbar-light bg-light">
+               <a class="navbar-brand"href="index.html"><img src="img/images/logo.png"></a>
+               <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+               <span class="navbar-toggler-icon"></span>
+               </button>
+               <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                  <ul class="navbar-nav ml-auto">
+                     <li class="nav-item active">
+                        <a class="nav-link" href="index.html">Home</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="about.html">About</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="uojdataset.html">Uojdata</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="services.html">Services</a>
+                     </li>
+                     <li class="nav-item">
+                        <a class="nav-link" href="contact.html">Contact Us</a>
+                     </li>
+                  </ul>
+                  <form class="form-inline my-2 my-lg-0">
+                     <div class="login_bt"><a href="#">Login <span style="color: #401e91;"><i class="fa fa-user" aria-hidden="true"></i></span></a></div>
+                     <div class="fa fa-search form-control-feedback"></div>
+                  </form>
+               </div>
+            </nav>
+         </div>
+         <!-- banner section start --> 
+         <div class="banner_section layout_padding">
+            <div class="container">
+               <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+                  <ol class="carousel-indicators">
+                     <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active">01</li>
+                     <li data-target="#carouselExampleIndicators" data-slide-to="1">02</li>
+                     <li data-target="#carouselExampleIndicators" data-slide-to="2">03</li>
+                     <li data-target="#carouselExampleIndicators" data-slide-to="3">04</li>
+                  </ol>
+                  <div class="carousel-inner">
+                     <div class="carousel-item active">
+                        <div class="row">
+                           <div class="col-sm-6">
+                              <h1 class="banner_taital">Currency set</h1>
+                              <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                              <div class="started_text"><a href="#">Get the data here</a></div>
+                           </div>
+                           <div class="col-sm-6">
+                              <div class="banner_img"><img src="img/images/currencies.png"></div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="carousel-item">
+                        <div class="row">
+                           <div class="col-sm-6">
+                              <h1 class="banner_taital">Currency set</h1>
+                              <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                              <div class="started_text"><a href="#">Get the data here</a></div>
+                           </div>
+                           <div class="col-sm-6">
+                              <div class="banner_img"><img src="img/images/currencies.png"></div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="carousel-item">
+                        <div class="row">
+                           <div class="col-sm-6">
+                              <h1 class="banner_taital">Currency set</h1>
+                              <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                              <div class="started_text"><a href="#">Get the data here</a></div>
+                           </div>
+                           <div class="col-sm-6">
+                              <div class="banner_img"><img src="img/images/currencies.png"></div>
+                           </div>
+                        </div>
+                     </div>
+                     <div class="carousel-item">
+                        <div class="row">
+                           <div class="col-sm-6">
+                              <h1 class="banner_taital">Currency set</h1>
+                              <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.</p>
+                              <div class="started_text"><a href="#">Get the data here</a></div>
+                           </div>
+                           <div class="col-sm-6">
+                              <div class="banner_img"><img src="img/images/currencies.png"></div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <!-- banner section end -->
+      </div>
+      
+      <!-- header section end -->
+      <!-- about sectuion start -->
+      <div class="about_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-6">
+                  <div class="about_img"><img src="img/images/about.img.png"></div>
+               </div>
+               <div class="col-md-6">
+                  <h1 class="about_taital">About Uojdata</h1>
+                  <p class="about_text">Uojdata is a University of juba website where data about any given inqury is found. it is purposefully developed to easy data collection about a given topic. it is made by university of juba students during their preparation for AI day, 2025. The students who voluntarily did it, made it so, such that those who shall be carrying out research will easily get it. As technology advances those prioritized this task over busy schedules to have it ready on the table are highly appreciated and thanks prof. Dr.Felix for cautioning us. Thanks to the two students who made data colection and brought this website to life.</p>
+                  <div class="read_bt_1"><a href="#">Read More</a></div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- about sectuion end -->
+      <!-- currency sectuion start -->
+      <div class="currency_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12">
+                  <h1 class="currency_taital">Our Featured Uojdata</h1>
+                  <p class="currency_text">This dataset is about South Sudan local currency(ssp).</p>
+               </div>
+            </div>
+            <div class="currency_section_1">
+               <div class="row">
+                  <div class="col-md-4">
+                     <div class="currency_box">
+                        <div class="currency_img"><img src="img/1ssp/img.2.png"></div>
+                        <div class="pound_text">1</div>
+                        <h6 class="Onepound">South Sudanese pounds</h6>
+                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                     </div>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="currency_box">
+                        <div class="currency_img"><img src="img/5ssp/img.2.png"></div>
+                        <div class="pound_text">5</div>
+                        <h6 class="fivepounds_text">South sudanese pounds</h6>
+                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                     </div>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="currency_box">
+                        <div class="currency_img"><img src="img/10ssp/img.2.jpg"></div>
+                        <div class="pound_text">10</div>
+                        <h6 class="Tenpounds_text">South Sudanese pounds</h6>
+                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="currency_section_2">
+               <div class="row">
+                  <div class="col-md-4">
+                     <div class="currency_box">
+                        <div class="currency_img"><img src="img/20ssp/img.2.png"></div>
+                        <div class="pound_text">20</div>
+                        <h6 class="Twentypounds_text">South Sudanese pounds</h6>
+                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                     </div>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="currency_box">
+                        <div class="currency_img"><img src="img/50ssp/img.1.png"></div>
+                        <div class="pound_text">50</div>
+                        <h6 class="Fiftypounds_text">South sudanese pounds</h6>
+                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                     </div>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="currency_box">
+                        <div class="currency_img"><img src="img/100ssp/img.1.png"></div>
+                        <div class="pound_text">100</div>
+                        <h6 class="OneHundredspounds_text">South Sudanese Pounds</h6>
+                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="currency_section_3">
+               <div class="row">
+                  <div class="col-md-4">
+                     <div class="currency_box">
+                        <div class="currency_img"><img src="img/500ssp/img.1.png"></div>
+                        <div class="pound_text">500</div>
+                        <h6 class="Fivehundredspounds_text">South Sudanese pounds</h6>
+                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                     </div>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="currency_box">
+                        <div class="currency_img"><img src="img/1000ssp/img.1.png"></div>
+                        <div class="pound_text">1000</div>
+                        <h6 class="OneThousandpounds_text">South sudanese pounds</h6>
+                        <div class="cart_bt"><a href="#">Add To Cart</a></div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="seemore_bt"><a href="#">See More</a></div>
+         </div>
+      </div>
+      <!-- currency sectuion end -->
+      <!-- services section start -->
+      <div class="services_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12">
+                  <h1 class="services_taital">Our Uojdata</h1>
+                  <p class="services_text">We brought this website to light to ease the difficulties faced when collecting data during the time of research specially when there shall be someone conducting research on economics crisis of the country as much as the currency is concerned.</p>
+               </div>
+            </div>
+            <div class="services_section_2">
+               <div class="row">
+                  <div class="col-md-4">
+                     <div class="services_box">
+                        <h5 class="tasty_text"><span class="icon_img"><img src="img/corns/10p.jpg"></span>Corns uojdata</h5>
+                        <p class="lorem_text">As much as education is concerned, it would be a great pleasure if the students would do research related to this field found it useful to aid them in their quest.</p>
+                     </div>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="services_box">
+                        <h5 class="tasty_text"><span class="icon_img"><img src="img/corns/20p..jpg"></span>Corns uojdata</h5>
+                        <p class="lorem_text">Dear researcher(s), if you get this data useful to you, don't hesitate to give us feedback in the cintact section.</p>
+                     </div>
+                  </div>
+                  <div class="col-md-4">
+                     <div class="services_box">
+                        <h5 class="tasty_text"><span class="icon_img"><img src="img/corns/IMG-20250215-WA0003.jpg"></span>Corns uojdata</h5>
+                        <p class="lorem_text">This should be a momentous joy to the resaercher to have found she/he has been looking for, for weeks or months.</p>
+                     </div>
+                  </div>
+               </div>
+            </div>
+            <div class="seemore_bt"><a href="#">Read More</a></div>
+         </div>
+      </div>
+      <!-- services section end -->
+      <!-- contact section start -->
+      <div class="contact_section layout_padding">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-4">
+                  <div class="contact_main">
+                     <h1 class="contact_taital">Contact Us</h1>
+                     <form action="/action_page.php">
+                        <div class="form-group">
+                           <input type="text" class="email-bt" placeholder="Name" name="Name">
+                        </div>
+                        <div class="form-group">
+                           <input type="text" class="email-bt" placeholder="Email" name="Name">
+                        </div>
+                        <div class="form-group">
+                           <input type="text" class="email-bt" placeholder="Phone Number" name="Email">
+                        </div>
+                        <div class="form-group">
+                           <textarea class="message-bt" placeholder="Message" rows="5" id="comment" name="Message"></textarea>
+                        </div>
+                     </form>
+                     <div class="main_bt"><a href="#">SEND</a></div>
+                  </div>
+               </div>
+               <div class="col-md-8">
+                  <div class="location_text">
+                     <ul>
+                        <li>
+                           <a href="#">
+                           <span class="padding_left_10 active"><i class="fa fa-map-marker" aria-hidden="true"></i></span>Making this the first Dataset.</a>
+                        </li>
+                        <li>
+                           <a href="#">
+                           <span class="padding_left_10"><i class="fa fa-envelope" aria-hidden="true"></i></span>Email : uojedu@gmail.com
+                           </a>
+                        </li>
+                     </ul>
+                  </div>
+                  <div class="mail_main">
+                     <h3 class="newsletter_text">Newsletter</h3>
+                     <div class="form-group">
+                        <textarea class="update_mail" placeholder="Enter Your Email" rows="5" id="comment" name="Enter Your Email"></textarea>
+                        <div class="subscribe_bt"><a href="#">Subscribe</a></div>
+                     </div>
+                  </div>
+                  <div class="footer_social_icon">
+                     <ul>
+                        <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a></li>
+                        <li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+                     </ul>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- contact section end -->
+      <!-- copyright section start -->
+      <div class="copyright_section">
+         <div class="container">
+            <p class="copyright_text">2025 All Rights Reserved. Design by Uojdata team</p>
+         </div>
+      </div>
+      <!-- copyright section end -->
+      <!-- Javascript files-->
+      <script src="js/jquery.min.js"></script>
+      <script src="js/popper.min.js"></script>
+      <script src="js/bootstrap.bundle.min.js"></script>
+      <script src="js/jquery-3.0.0.min.js"></script>
+      <script src="js/plugin.js"></script>
+      <!-- sidebar -->
+      <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="js/custom.js"></script>
+      <!-- javascript --> 
+   </body>
+</html>
